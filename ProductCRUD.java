@@ -10,7 +10,7 @@ public class ProductCRUD {
 
   // Database URL, username, and password
   private static final String URL = "jdbc:mysql://localhost:3306/Zephyr";
-  private static final String USER = "jiya";
+  private static final String USER = "Kunal";
   private static final String PASSWORD = "khikhi";
 
   private static Connection connection = null;
